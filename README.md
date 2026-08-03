@@ -1,4 +1,4 @@
-# Spatial-AVM
+# Geospatial-Property-Valuation-Checker
 
 Geospatial Valuation via Spatial Embeddings — GNN/Attention-based property valuation engine (Construction & Real Estate).
 
